@@ -1,0 +1,67 @@
+*{
+  margin: 0px;
+  background-color: #1e4453;
+}
+
+
+/* Principal */
+.ebook{
+  margin-left: 300px;
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.ebook img{
+  border-radius: 10px;
+}
+
+
+.ebook h1{
+  color: #FFFFFF;
+  margin-left: 200px;
+}
+
+.ebook h3{
+  color: #FFFFFF;
+}
+
+h3{
+  margin-top: 150px;
+  margin-left: -250px;
+}
+
+/* button*/
+
+.btn-primary{
+width: 200px;
+height: 50px;
+color: #FFFFFF;
+background-color: #1E90FF;
+margin-top: 250px;
+margin-left: -280px;
+}
+
+.btn-primary:hover{
+  color: #1E90FF;
+  background-color: #FFFFFF;
+}
+
+/* imagem vetor*/
+footer img{
+  width: 25px;
+  margin-left: -15px;
+  border: none;
+  background-color: #FFFFFF;
+}
+
+
+footer #lightup{
+  width: 5px;
+  height: 40px;
+  margin-left: 25px;
+  border: none;
+  border-radius: 20px;
+  background-color: #FFFFFF;
+
+}
